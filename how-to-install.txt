@@ -1,0 +1,4 @@
+Open Google chrome
+Go to Settings - addons - Load Unpacked - navigate to your the folder
+
+thats it.
