@@ -1,0 +1,55 @@
+body {background-color: #1a1a1a;
+    /*Change this for a new background image*/
+    background-image: url(img/background3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+input {margin-top: 54vh;
+    margin-left: 35vw;
+    background-color: none;
+    height: 2.5vw;
+    width: 30vw;
+    padding: 0px;
+    background-color: transparent;
+    caret-color:#fafafab9;
+    font-size: 2.5vw;
+    padding-bottom: 5px;
+    border: none;
+    border-bottom: 2px solid #fafafa;
+    border-width: 1px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fafafa;
+}
+
+
+input:focus {box-shadow: none;
+    outline: none;
+}
+
+
+::placeholder {color: #fafafa;
+    opacity: 55%;
+    font-size: 2.5vw;
+    bottom: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+#linked {height: auto;
+    width: 16vw;
+    bottom: 0;
+    margin-left: 42vw;
+    position: absolute;
+    display: inline-flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+
+.link-icon {
+    opacity: 75%;     
+    width: 2vw;
+    margin-bottom: 1vw;
+}

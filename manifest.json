@@ -1,0 +1,19 @@
+
+{
+    "manifest_version": 2,
+    "name": "Dark - by Harpyxe",
+    "version": "1.0",
+    "description": "A clean new-page plugin.",
+    "author": "Harpyxe",
+    "chrome_url_overrides" : {
+      "newtab": "index.html"
+    },
+    "permissions": [
+      "storage",
+      "localStorage"
+    ],
+    "icons": {
+      "16": "icon16.png",
+      "128": "icon128.png"
+    }
+  }
