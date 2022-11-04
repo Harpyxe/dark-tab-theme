@@ -10,7 +10,7 @@ Do whatever u want with this just dont hurt me if u dont like it.
 
 
 
-##Install
+## Install
 Open Google chrome
 Go to Settings - addons - Load Unpacked - navigate to where you saved the folder
 
