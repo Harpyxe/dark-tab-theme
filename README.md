@@ -6,7 +6,7 @@ I "borrowed" the wallpaper from this reddit post (https://www.reddit.com/r/wallp
 
 The icons are from IconFinder and edited slightly.
 
-Do whatever u want with this just dont hurt me if u dont like it.
+Do whatever u want with.
 
 
 
